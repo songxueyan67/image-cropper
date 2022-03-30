@@ -1,0 +1,24 @@
+{
+  "name": "image-cropper",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ant-design-vue": "^2.2.8",
+    "sass": "^1.49.9",
+    "vue": "^3.2.25",
+    "vue-cropper": "^1.0.3"
+  },
+  "devDependencies": {
+    "@iconify/json": "^2.1.21",
+    "@vitejs/plugin-vue": "^2.2.0",
+    "unplugin-icons": "^0.14.1",
+    "unplugin-vue-components": "^0.18.5",
+    "vite": "^2.8.0",
+    "vue-router": "^4.0.13"
+  }
+}
